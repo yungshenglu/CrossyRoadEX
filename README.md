@@ -45,7 +45,7 @@ Main/
 ---
 ## Logs
 
-* MAR 11, 2019 - Build and test on Unity 2018.3.8f1 (64-bit)
+* MAR 11, 2019 - Build and test on [Unity 2018.3.8f1 (64-bit)](https://unity3d.com/get-unity/download/archive)
 
 ---
 ## Author
